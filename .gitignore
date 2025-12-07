@@ -6,3 +6,5 @@ dontLeak.py
 .env
 
 .vscode/
+
+screen_test.png
